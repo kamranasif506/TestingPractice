@@ -1,0 +1,24 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "Repo to Learn the Unit Testing process",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamranasif506/TestingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamranasif506/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/kamranasif506/TestingPractice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
